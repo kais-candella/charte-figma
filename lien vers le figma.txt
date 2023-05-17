@@ -4,7 +4,7 @@
  -> planche de stule /logo
 https://www.figma.com/file/Jtu3xbf0CW7soTPIkfFYTd/Untitled?type=design&node-id=0%3A1&t=JkCnQBbUEFZW8kmb-1
 
--> maquette
+-> maquette pour voir les animation etc press Z pour fit a l'ecran
 https://www.figma.com/file/Jtu3xbf0CW7soTPIkfFYTd/Untitled?type=design&node-id=11%3A389&t=JkCnQBbUEFZW8kmb-1
 
 -> test haute fidelite portfolio
